@@ -1,5 +1,5 @@
 # Web-informasi-departemen-teknik
-Aplikasi ini menyediakan informasi beberapa departemen teknik yang dimana kita harus login terlebih dahulu untuk melihat isi web
+Aplikasi ini menyediakan informasi beberapa departemen teknik Universitas Diponegoro yang dimana kita harus login terlebih dahulu untuk melihat isi web
 
 
 Berikut merupakan gambar Login page :
