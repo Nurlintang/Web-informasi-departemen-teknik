@@ -2,7 +2,7 @@
 session_start();
 
 if ( !isset($_SESSION['login'])){
-    header ("location: http://localhost/PHP/project_nezta/login/login.php");
+    header ("location: http://localhost/PHP/Project_Web_Departemen_Teknik/login/login.php");
     exit;
 }
 ?>
@@ -93,7 +93,7 @@ if ( !isset($_SESSION['login'])){
         </div>
     </a>
 
-    <a href="http://localhost/PHP/project_nezta/refresh.php" class="btn-6"> 
+    <a href="http://localhost/PHP/Project_Web_Departemen_Teknik/refresh.php" class="btn-6"> 
         <div class="logout">
          Logout
         </div>
