@@ -28,7 +28,7 @@ if(isset($_POST["daftar"])){
                 <img src="logo-project.png" class="logo">
             </div>
             
-            <a href="http://localhost/PHP/project_nezta/login/login.php">
+            <a href="http://localhost/PHP/Project_Web_Departemen_Teknik/login/login.php">
                 <section class="box-login">
                     <div class="box-login1">
                         Login
@@ -36,7 +36,7 @@ if(isset($_POST["daftar"])){
                 </section>
             </a>
 
-            <a href="http://localhost/PHP/project_nezta/pendaftaran/pendaftaran.php">
+            <a href="http://localhost/PHP/Project_Web_Departemen_Teknik/pendaftaran/pendaftaran.php">
                 <section class="box-pendaftaran">
                     <div class="box-pendaftaran1">
                         Sign Up
@@ -44,7 +44,7 @@ if(isset($_POST["daftar"])){
                 </section>
             </a>
 
-            <a href="http://localhost/PHP/project_nezta/web_index/web_index.php">
+            <a href="http://localhost/PHP/Project_Web_Departemen_Teknik/web_index/web_index.php">
                 <section class="box-website">
                     <div class="box-website1">
                         Website
